@@ -11,3 +11,5 @@ Commit 9: Update STEPS
 Commit 10: Create a file in main called APOLOGY.md  
 Commit 11: Merge bug-fix-experimental into bug-fix, and resolve another merge conflict in STEPS.md  
 Commit 12: Go back and fix STEPS after the merge  
+Commit 13: Merge bug-fix back into main  
+Commit 14: Update STEPS one final time and look upon my work  
