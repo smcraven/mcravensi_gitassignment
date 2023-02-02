@@ -1,0 +1,1 @@
+Is it mean to make memes making fun of Portugal? I have a Portuguese friend and they think it's funny so hopefully it's fine.
