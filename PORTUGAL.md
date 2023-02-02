@@ -1,0 +1,2 @@
+![portugal-related meme](dank country meme.png)  
+Portugal is a country famous for being that chunk of the Iberian peninsula that isn't Spain, and for speaking that one language that's kind of like Spanish but isn't. Also, they created Brazil, a country in South America so large that Portuguese is the most commonly spoken language in South America, despite being surrounded by Hispanic neighbors.
